@@ -14,7 +14,7 @@ Here is more about us:
   <!---
   | Command | Description |
 | --- | --- |
-| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [Vectors of Locally Aggregated Concepts]() | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
 | ... | ... |
   --->
   
