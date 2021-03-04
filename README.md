@@ -9,7 +9,7 @@ Here is more about us:
 - 📫 How to reach me: ...We are here!!
 - ⚡ Fun fact: ...there are members who will help you at all cost, but we mean free
 
-Plus you get to hear from [**Denis Rothman**](https://www.linkedin.com/in/denis-rothman-0b034043/) the author of the NEW GEM in Transformers currently in Amazon.
+Plus you get to hear from [**Denis Rothman**](https://www.linkedin.com/in/denis-rothman-0b034043/) the author of the NEW GEM in Transformers currently in [**Amazon**](https://www.packtpub.com/product/transformers-for-natural-language-processing/9781800565791).It elaborates the state of the art implementations of Transformers Use Cases.
 
 <summary>Projects</summary>
   
